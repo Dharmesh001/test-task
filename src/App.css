@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.header{
+  background-color: #7A08FA;
+  padding: 5px;
+}
+
+.alubumName{
+  cursor: pointer;
+}
+
+.p1{
+  padding: 1%;
+}
